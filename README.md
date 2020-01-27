@@ -20,14 +20,14 @@ In Terminal:
 * Navigate to where you want this application to be saved, i.e.:
 ```cd desktop```
 * Clone the file from GitHub with HTTPS
-```git clone https://github.com/kwicz/beep-boop.git```
+```git clone https://github.com/kwicz/narcisi-chiropractic.git```
 * Open file in your preferred text editor
-* On Mac: ```open -a {your text editor} beep-boop```
-* On Windows: ```beep-boop```
+* On Mac: ```open -a {your text editor} narcisi-chiropractic```
+* On Windows: ```narcisi-chiropractic```
 
 To Download Manually:
 
-* Navigate to https://github.com/kwicz/beep-boop.
+* Navigate to https://github.com/kwicz/narcisi-chiropractic.
 * Click green "Clone or Download" button.
 * Click "Download ZIP".
 * Click downloaded file to unzip.
@@ -40,14 +40,14 @@ _No known bugs at this time._
 
 ## Support and contact details
 
-_Have a bug or an issue with this application? [Open a new issue](https://github.com/kwicz/{repo-name}/issues) here on GitHub._
+_Have a bug or an issue with this application? [Open a new issue](https://github.com/kwicz/narcisi-chiropractic/issues) here on GitHub._
 
 ## Technologies Used
 
-_* Javascript & jQuery_
-_* HTML & CSS_
-_* Bootstrap4_
-_* Font Awesome_
+* Javascript & jQuery
+* HTML & CSS
+* Bootstrap4
+* Font Awesome
 
 ### License
 
