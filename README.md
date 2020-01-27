@@ -1,6 +1,3 @@
-# [Narcisi Chiropractic](kwicz/github.io/narcisi-chiropractic)
-
-
 # _Narcisi Chiropractic_
 
 #### _Professional website for Narcisi Chiropractic in Portland, OR, Jan 2020_
