@@ -3,7 +3,7 @@
 
 # _Narcisi Chiropractic_
 
-#### _A website for a local chiropractic practics, Jan 2020_
+#### _Professional website for Narcisi Chiropractic in Portland, OR, Jan 2020_
 
 #### By _**K. Wicz**_
 
